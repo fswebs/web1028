@@ -37,7 +37,9 @@ style(스타일)
 
 ### Edit(편집) 메뉴
 Stroke -> 선 굵기, 색
-Paste Into -> 포토샵의 마스크 기법 중 하나
+Paste Into 
+  -> 포토샵의 마스크 기법 중 하나
+  -> 안경 예제
 
 ### 파일 메뉴
 Action(액션) 패널
