@@ -10,3 +10,17 @@ Git 자료 정리
   - Layer Style > Pattern Overlay
   - Pattern Stamp 도구
   - Edit > Fill: Pattern
+
+색상 보정
+Auto Color
+
+밝기/대비
+Brightness/Contrast
+Level, ctrl+L
+Curves, ctrl+M
+
+채도
+Vibrance
+
+
+close All, ctrl+alt+W
