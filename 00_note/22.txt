@@ -59,3 +59,11 @@ Black & White
 Desaturate
 
 close All, ctrl+alt+W
+
+* 영역이 왜곡된다.
+선택 영역 -> 패스
+패스 -> 선택 영역
+
+
+패스를 따라가는 글자 만들기
+예시>
